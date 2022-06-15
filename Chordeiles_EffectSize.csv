@@ -1,0 +1,17 @@
+﻿Group,Measurement,MeanE,n,SE,var,MeanC1,MeanC2
+C. minor *,Wing,196.31,50,1.066,56.7948,171,172
+C. minor **,Wing,190.12,38,0.958,34.87503,171,172
+C. m. chapmani,Wing,182.37,43,0.81,34.8466,171,172
+C. m. aserriensis,Wing,183.15,20,0.612,12.2496,171,172
+C. m. neotropicalis,Wing,192.3,7,1.61,18.1447,171,172
+C. m. panamensis,Wing,179.72,7,2.2,33.88,171,172
+C. g. vicinus,Wing,171.68,20,1.625496,52.84474,171,172
+C. g. gundlachii,Wing,169.09,29,0.8473121,20.8202,171,172
+C. minor *,Tail,111.32,50,0.677,22.93765,87.5,94
+C. minor **,Tail,100.19,37,0.956,33.81563,87.5,94
+C. m. chapmani,Tail,104.01,43,0.5202139,22.3692,87.5,94
+C. m. aserriensis,Tail,101.81,19,0.667,12.57206,87.5,94
+C. m. neotropicalis,Tail,106.75,7,1.32,12.1968,87.5,94
+C. m. panamensis,Tail,96.5,7,0.48,1.6128,87.5,94
+C. g. vicinus,Tail,96.75,20,0.8609015,14.82303,87.5,94
+C. g. gundlachii,Tail,94.03,28,0.6336327,11.24173,87.5,94
