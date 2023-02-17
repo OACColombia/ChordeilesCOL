@@ -17,7 +17,7 @@ data$d2 <- ((MeanE - MeanC2)/data$s)*((n-3)/(n-2.25))*(sqrt((n-2)/n)) #corrected
 #df = n-1
 data$df<-n-1
 #estimate tritical value for T
-data$t99<-qt(p=0.01, df=data$df, lower.tail = F)
+data$t99<-qt(p=0.001, df=data$df, lower.tail = F)
 data$t95<-qt(p=0.05, df=data$df, lower.tail = F)
 data$t80<-qt(p=0.2, df=data$df, lower.tail = F)
 
